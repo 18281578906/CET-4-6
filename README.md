@@ -1,6 +1,6 @@
 四六级考试系统
 -   -   -   - 
 ＃四六级考试系统
-```javascript
-var mmm=0;
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
